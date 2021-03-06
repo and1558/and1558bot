@@ -1,3 +1,4 @@
+# This is to count which person invited this person
 import discord
 from discord.ext import commands
 from discord import Webhook, AsyncWebhookAdapter
