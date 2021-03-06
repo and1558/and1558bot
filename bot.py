@@ -1,4 +1,4 @@
-#imports stuff needed for this code read dependencies.txt.
+#imports stuff needed for this code read dependencies.txt
 
 import discord
 import cogs
