@@ -1,3 +1,4 @@
+# This used for events that happened in server like someone joined
 import discord
 import datetime
 import asyncio
