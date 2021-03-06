@@ -1,3 +1,4 @@
+# Main codes for cogs and other files in this Cogs folder
 import discord
 import cogs
 from discord.ext import commands
